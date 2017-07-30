@@ -5,3 +5,6 @@ html {
   margin: 0em;
   padding: 0em;
 }
+ul {
+  list-style-type: none;
+}
