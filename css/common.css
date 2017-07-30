@@ -2,8 +2,8 @@ html {
   background-color: #e5e5e5;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
-  margin: 0em;
-  padding: 0em;
+  margin: 0;
+  padding: 0;
 }
 ul {
   list-style-type: none;
