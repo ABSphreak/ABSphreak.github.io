@@ -1,5 +1,5 @@
 ---
-  layout: projects
+  layout: project-article
   title: GitHub Pages Website
   meta: Website that you're seeing this information on.
   category: web-development

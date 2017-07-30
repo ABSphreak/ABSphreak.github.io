@@ -1,5 +1,5 @@
 ---
-  layout: projects
+  layout: project-article
   title: Java Programs
   meta: Some Java skills showcased here.
   category: general-programs

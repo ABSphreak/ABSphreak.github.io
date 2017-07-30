@@ -1,5 +1,5 @@
 ---
-  layout: projects
+  layout: project-article
   title: TensorFlow
   meta: Showcasing work that I've done on Machine Learning using TFLearn.
   category: machine-learning

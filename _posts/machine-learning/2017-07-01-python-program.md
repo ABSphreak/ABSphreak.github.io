@@ -1,5 +1,5 @@
 ---
-  layout: projects
+  layout: project-article
   title: Python Programs
   meta: Some cool Python Projects that I've done so far.
   category: machine-learning
