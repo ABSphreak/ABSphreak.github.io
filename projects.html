@@ -1,0 +1,14 @@
+---
+  layout: default
+---
+
+<h1>News Page</h1>
+
+<ul>
+  {% for project in site.posts %}
+  <li>
+    <a href="">{{project.title}}</a>
+    <p>{{project.meta}}</p>
+  </li>
+  {% endfor %}
+</ul>

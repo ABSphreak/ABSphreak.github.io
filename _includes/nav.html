@@ -1,8 +1,8 @@
 <nav>
   <div>
-    <ul>
-      <li><a href="{{site.baseurl}}/">HOME</a></li>
-      <li><a href="{{site.baseurl}}/news.html">NEWS</a></li>
+    <ul class="nav">
+      <li><a href="{{site.baseurl}}/index.html" class="{% if page.url == '/index.html' %}current{% endif %}">HOME</a></li>
+      <li><a href="{{site.baseurl}}/projects.html" class="{% if page.url == '/news.html' %}current{% endif %}">PROJECTS</a></li>
     </ul>
   </div>
 </nav>
