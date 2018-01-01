@@ -1,6 +1,6 @@
 ---
-  layout: default
-  markdown: redcarpet
+layout: default
+markdown: kramdown
 ---
 #Abhinav Sharma
 ##Get to know me here
