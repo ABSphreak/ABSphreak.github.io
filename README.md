@@ -1,4 +1,4 @@
 # ABSphreak.github.io
 Personal Site &amp; Blog
-## Changelog:
-- index.html Added
+
+This site is solely powered by [Jekyll](https://jekyllrb.com/), [Liquid](http://shopify.github.io/liquid/) and [Markdown](https://daringfireball.net/projects/markdown/syntax).
