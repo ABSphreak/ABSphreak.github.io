@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for blog in site.posts %}
+	<div class="blog-head">
+		<h2><a href="{{site.baseurl}}{{blog.permalink}}">{{blog.title}}</a></h2>
+	</div>
+	<span class="blog-date">{{blog.blog-date}}</span>
+	<p class="blog-meta">{{blog.meta}}</p>
+{% endfor %}
