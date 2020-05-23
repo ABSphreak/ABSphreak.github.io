@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+const IndexPageTest = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
@@ -14,8 +14,8 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/test-2/">Go to test page 2</Link>
   </Layout>
 )
 
-export default IndexPage
+export default IndexPageTest
