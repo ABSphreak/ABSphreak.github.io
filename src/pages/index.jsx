@@ -330,7 +330,6 @@ const IndexPage = () => (
         <li className="nav-item" id="themeButton">
           <Link to="#" className="nav-link">
             <svg
-              className="theme-icon"
               id="lightIcon"
               aria-hidden="true"
               focusable="false"
@@ -355,7 +354,6 @@ const IndexPage = () => (
               </g>
             </svg>
             <svg
-              className="theme-icon"
               id="solarIcon"
               aria-hidden="true"
               focusable="false"
@@ -380,7 +378,6 @@ const IndexPage = () => (
               </g>
             </svg>
             <svg
-              className="theme-icon"
               id="darkIcon"
               aria-hidden="true"
               focusable="false"
